@@ -1,6 +1,6 @@
 # Teste backend
 
-Utilizando NodeJS junto com Mysql ou Sqlite, crie os seguintes endpoints:
+Utilizando NodeJS (com ou sem framework, o que achar necessário) junto com Mysql ou Sqlite, crie os seguintes endpoints:
 
 ------------------------------------------------------------------------------------------------------------------------
 
